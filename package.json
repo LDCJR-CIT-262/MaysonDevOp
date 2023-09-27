@@ -1,0 +1,14 @@
+{
+  "name": "diegopackage",
+  "version": "1.0.0",
+  "description": "My week_project",
+  "main": "index.js",
+  "scripts": {
+    "test": "ziv.com"
+  },
+  "keywords": [
+    "ziv"
+  ],
+  "author": "Diego Mayson",
+  "license": "ISC"
+}
